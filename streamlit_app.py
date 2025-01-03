@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('Qual o movimento que dançaste?')
 
-st.write('Hello world!')
+st.write('Carrega no botão para descobrir')
